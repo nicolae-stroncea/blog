@@ -9,7 +9,7 @@ theme:
     code: Roboto Mono
 
 extra_css:
-  - /stylesheets/extra.css
+  - css/extra.css
 markdown_extensions:
   - admonition
   - codehilite
