@@ -49,51 +49,16 @@ Starting today :)
 ## My Progress
 
 
-|Date|Goal|Achieved|
-|----|----|--------|
-|May 26, 2020|no morning screen-time|<span class='success'>Pass</span>|
-|May 26, 2020|no night screen-time|<span class='success'>Pass</span>|
-|May 26, 2020|no online distractions|<span class='success'>Pass</span>|
-|May 26, 2020|no overusing tech|<span class='success'>Pass</span>|
-||||
-|May 27, 2020|no morning screen-time|<span class='success'>Pass</span>|
-|May 27, 2020|no night screen-time|<span class='success'>Pass</span>|
-|May 27, 2020|no online distractions|<span class='success'>Pass</span>|
-|May 27, 2020|no overusing tech|<span class='success'>Pass</span>|
-||||
-|May 28, 2020|no morning screen-time|<span class='success'>Pass</span>|
-|May 28, 2020|no night screen-time|<span class='success'>Pass</span>|
-|May 28, 2020|no online distractions|<span class='success'>Pass</span>|
-|May 28, 2020|no overusing tech|<span class='success'>Pass</span>|
-||||
-|May 29, 2020|no morning screen-time|<span class='success'>Pass</span>|
-|May 29, 2020|no night screen-time|<span class='success'>Pass</span>|
-|May 29, 2020|no online distractions|<span class='success'>Pass</span>|
-|May 29, 2020|no overusing tech|<span class='success'>Pass</span>|
-||||
-|May 30, 2020|no morning screen-time|<span class='success'>Pass</span>|
-|May 30, 2020|no night screen-time|<span class='success'>Pass</span>|
-|May 30, 2020|no online distractions|<span class='fail'>Fail</span>|
-|May 30, 2020|no overusing tech|<span class='success'>Pass</span>|
-||||
-|May 31, 2020|no morning screen-time|<span class='success'>Pass</span>|
-|May 31, 2020|no night screen-time|<span class='success'>Pass</span>|
-|May 31, 2020|no online distractions|<span class='fail'>Fail</span>|
-|May 31, 2020|no overusing tech|<span class='success'>Pass</span>|
-||||
-|June 01, 2020|no morning screen-time|<span class='success'>Pass</span>|
-|June 01, 2020|no night screen-time|<span class='success'>Pass</span>|
-|June 01, 2020|no online distractions|<span class='success'>Pass</span>|
-|June 01, 2020|no overusing tech|<span class='success'>Pass</span>|
-||||
-|June 02, 2020|no morning screen-time|<span class='success'>Pass</span>|
-|June 02, 2020|no night screen-time|<span class='success'>Pass</span>|
-|June 02, 2020|no online distractions|<span class='success'>Pass</span>|
-|June 02, 2020|no overusing tech|<span class='fail'>Fail</span>|
-||||
-|June 03, 2020|no morning screen-time|<span class='success'>Pass</span>|
-|June 03, 2020|no night screen-time|<span class='success'>Pass</span>|
-|June 03, 2020|no online distractions|<span class='success'>Pass</span>|
-|June 03, 2020|no overusing tech|<span class='fail'>Fail</span>|
-||||
-
+|Date|Morning Screen Time|Night screen time|Online distractions|Screen-time amount|
+|----|----|--------|-----|---|
+|May 26, 2020|<span class='success'>Pass</span>|<span class='success'>Pass</span>|<span class='success'>Pass</span>|<span class='success'>Pass</span>|
+|May 27, 2020|<span class='success'>Pass</span>|<span class='success'>Pass</span>|<span class='success'>Pass</span>|<span class='success'>Pass</span>|
+|May 28, 2020|<span class='success'>Pass</span>|<span class='success'>Pass</span>|<span class='success'>Pass</span>|<span class='success'>Pass</span>|
+|May 29, 2020|<span class='success'>Pass</span>|<span class='success'>Pass</span>|<span class='success'>Pass</span>|<span class='success'>Pass</span>|
+|May 30, 2020|<span class='success'>Pass</span>|<span class='success'>Pass</span>|<span class='fail'>Fail</span>|<span class='success'>Pass</span>|
+|May 31, 2020|<span class='success'>Pass</span>|<span class='success'>Pass</span>|<span class='fail'>Fail</span>|<span class='success'>Pass</span>|
+|June 01, 2020|<span class='success'>Pass</span>|<span class='success'>Pass</span>|<span class='success'>Pass</span>|<span class='success'>Pass</span>|
+|June 02, 2020|<span class='success'>Pass</span>|<span class='success'>Pass</span>|<span class='success'>Pass</span>|<span class='fail'>Fail</span>|
+|June 03, 2020|<span class='success'>Pass</span>|<span class='success'>Pass</span>|<span class='success'>Pass</span>|<span class='fail'>Fail</span>|
+|June 04, 2020|<span class='success'>Pass</span>|<span class='success'>Pass</span>|<span class='success'>Pass</span>|<span class='success'>Pass</span>|
+|June 05, 2020|<span class='success'>Pass</span>|<span class='success'>Pass</span>|<span class='success'>Pass</span>|<span class='success'>Pass</span>|
